@@ -18,7 +18,7 @@ body {
 button {
     display: block;
     height: 35px;
-    width: 240px;
+    width: 260px;
     margin: 10px;
     border-radius: 15px;
     border: 1px solid;
@@ -34,4 +34,5 @@ button:hover {
 
 p {
     padding-top: 30px;
+    font-size: 30px;
 }
