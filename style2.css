@@ -42,7 +42,7 @@
 }
 
 .choose_4:checked~.slides>.s1 {
-    margin-left: -61rem;
+    margin-left: -59rem;
 }
 
 .choose_5:checked~.slides>.s1 {
