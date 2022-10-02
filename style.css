@@ -4,7 +4,7 @@
 }
 
 body {
-    background: linear-gradient( rgb(24, 119, 242), rgb(217, 65, 255));
+    background: rgb(24, 119, 242);
 }
 
 .container1 {
@@ -22,6 +22,7 @@ button {
     margin: 10px;
     border-radius: 15px;
     border: 1px solid;
+    font-family
 }
 
 .container1 a {

@@ -38,23 +38,23 @@
 }
 
 .choose_3:checked~.slides>.s1 {
-    margin-left: -43rem;
+    margin-left: -40rem;
 }
 
 .choose_4:checked~.slides>.s1 {
-    margin-left: -59rem;
+    margin-left: -60rem;
 }
 
 .choose_5:checked~.slides>.s1 {
-    margin-left: -69rem;
+    margin-left: -70rem;
 }
 
 .choose_6:checked~.slides>.s1 {
-    margin-left: -89rem;
+    margin-left: -90rem;
 }
 
 .choose_7:checked~.slides>.s1 {
-    margin-left: -109rem;
+    margin-left: -110rem;
 }
 
 button {
