@@ -31,6 +31,8 @@ button {
 
 button:hover {
     background-color: rgb(59, 176, 255);
+    width: 200px;
+    transition: 1s;
 }
 
 p {
