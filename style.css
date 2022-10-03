@@ -4,7 +4,14 @@
 }
 
 body {
-    background: linear-gradient( rgb(24, 119, 242), rgb(255, 37, 204));
+    background-color: rgb(24, 119, 242);
+}
+
+h1 {
+    font-size: 20px;
+    margin: 10px;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .container1 {
@@ -12,17 +19,17 @@ body {
     padding-bottom: 50px;
     padding-right: ;
     border-radius: 20px;
-   
 }
 
 button {
     display: block;
     height: 35px;
     width: 260px;
-    margin: 10px;
+    margin: 15px;
     border-radius: 15px;
     border: 0px solid;
     font-family: 'Montserrat', sans-serif;
+    box-shadow: 2px 5px 2px gray;
 }
 
 .container1 a {
@@ -31,8 +38,7 @@ button {
 
 button:hover {
     background-color: rgb(59, 176, 255);
-    width: 200px;
-    transition: 1s;
+    transition: 0.5s;
 }
 
 p {
