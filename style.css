@@ -26,7 +26,7 @@ button {
     display: block;
     height: 35px;
     width: 260px;
-    margin: 15px;
+    margin: 15px 15px 15px 0px;
     border-radius: 15px;
     border: 0px solid;
     font-family: 'Montserrat', sans-serif;
@@ -42,7 +42,7 @@ button {
 button:hover {
     background-color: rgb(59, 176, 255);
     transition: 0.5s;
-    animation: animate__animated animate__bounce animate__slow animate__repeat-1 animate__delay-1s;
+    animation: animate__animated animate__bounce;
 }
 
 p {
