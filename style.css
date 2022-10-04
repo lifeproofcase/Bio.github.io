@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(24, 119, 242);
+    background-color: rgb(19, 113, 236);
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
 }
 
 .container1 {
-    margin: 40px;
+    margin: 5px;
     padding-bottom: 50px;
     padding-right: ;
     border-radius: 20px;
@@ -38,10 +38,13 @@ button {
 
 button:hover {
     background-color: rgb(59, 176, 255);
+    animation-duration: 2s;
     transition: 0.5s;
 }
 
 p {
     padding-top: 30px;
-    font-size: 8px;
+    font-size: 9px;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
 }
