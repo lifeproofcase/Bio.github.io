@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+.animate__animated.animate__flipInX {
+    --animate-duration: 5s;
+}
+
+.animate__animated.animate__bounce {
+    --animate-duration: 10s;
+}
+
 .slider {
     position: absolute;
     top: 50%;
